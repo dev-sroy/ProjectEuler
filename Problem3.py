@@ -17,4 +17,3 @@ def greatest_prime_factor(N):
     return max(factors_list)
 print(greatest_prime_factor(600851475143))
 
-print(check_prime(67))
